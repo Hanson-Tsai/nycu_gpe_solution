@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "cctype": "cpp",
+        "vector": "cpp",
+        "iostream": "cpp",
+        "any": "cpp",
+        "optional": "cpp",
+        "variant": "cpp"
+    }
+}
